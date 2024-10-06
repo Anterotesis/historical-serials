@@ -1,11 +1,15 @@
-# historical-serials
+# historic-serials
 
-The Historical Serials project
+The Historic Serials project
 
-This repository contains the PDFs, the raw OCR, and the text being processed, of historic serial publications from the long eighteenth century.
+historicserials.uk coming soon
 
-The first aim is to build a collection of such material that is clearly in the public domain, for the free use and re-use by anyone at all.
+This repository will contains the PDFs, the raw OCR, and the metadata, of historic serial publications published in Britain, in the seventeenth, eighteenth, nineteenth and twentieth centuries, and freely and openly available as public domain material.
 
-The second aim is to curate this collection, creating useful metadata about the publications.
+The first task is to map out what is freely available and where it is held;
 
-Further aims will be added as I develop this project.
+the second task will be to produce and curate metadata;
+
+and the third task - the most difficult - will be to produce viable digital text from these printed publications.
+
+All outputs will be freely and openly available and accessible.
